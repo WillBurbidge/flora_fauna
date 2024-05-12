@@ -1,1 +1,1 @@
--- This is a test bit of text, now changes have been made. This is a branch
+-- This is a test bit of text, now changes have been made. This is a branch called branchtest
